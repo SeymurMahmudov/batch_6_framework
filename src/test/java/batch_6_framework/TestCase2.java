@@ -10,6 +10,8 @@ public class TestCase2 extends BasePage {
 
 	public void testGit() {
 		
+		System.out.println("Helloooo");
+		String name = "Heyy";
 	}
 	
 	
